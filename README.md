@@ -1,5 +1,5 @@
 <h2 align="left">Hi !👋 there, I'm Nirmal Rathod! </h2>
-
+<p>Full-Stack Developer, UI/UX Designer</p>
 ###
 
 <div align="center">
